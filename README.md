@@ -58,6 +58,28 @@ If you want to calculate it manually, follow these steps:
 
 ### Normally, we calculate internet speed by dividing it by 8.
 
+
       So if you have 1 Mbps, your actual download speed will be 1 * 1000 / 8 = 125 KBps.
 
-      Be aware of the b, small b = bit , big B= Byte.
+      Be aware of the b, small b = bit , big B = Byte.
+
+
+### Download speeds in browsers or torrents show speeds in MBps (Megabytes per second).
+
+
+     So, if your ISP provides 30 Mbps, your actual max download speed will be:
+
+     30 * 1000 / 8 = 3.75 MBps.
+
+> Internet providers advertise speeds in Mbps (Megabits per second).
+
+
+# Calculate percentage
+
+     amount = percentage you want to calculate * total value / 100
+
+ **Calculate gram to ammount**
+        
+     gram = (total gram / total value) * amount
+
+ > (total gram / total value) it will provide value per gram, then multiply amount to get exact gram for provided amount.
