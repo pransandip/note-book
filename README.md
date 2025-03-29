@@ -15,3 +15,49 @@
     ]
 }
 ```
+> serialized: Publish or broadcast (a story or play) in regular installments.
+
+## Serialization
+
+- **serialization:**
+  In the context of computing and data, serialization means converting an object or data structure into a format suitable for storage (like a file) or transmission (like over a network), often into a stream of bytes. The reverse process, converting that stream back into the original object, is called deserialization. 
+
+- **Purpose:**
+Serialization allows you to save the state of an object or data structure so it can be preserved or sent to another system, and then later recreated. 
+
+- **How it works:**
+Serialization transforms complex data structures into a simpler, linear format (like a sequence of bytes) that can be easily stored or transmitted. 
+
+
+# How to calculate internet speed
+
+**Speed is usually measured in megabits per second (Mbps), where:**
+- 1 byte = 8 bits
+- 1 Kbps = 1,000 bits per second
+- 1 Mbps = 1 million bits per second
+
+**Manual Calculation:**
+
+If you want to calculate it manually, follow these steps:
+
+1. Download a File: Start downloading a file from a reliable source.
+2. Measure Time: Use a stopwatch to measure how long it takes to download the file.
+3. Calculate Speed:
+```
+- Use the formula: Speed (Mbps) = ( File Size (MB) × 8 / Download Time (seconds))
+- For example, if you downloaded a 100 MB file in 20 seconds: Speed = (100 × 8 / 20 ) = 40 Mbps
+```
+
+1. Factors Affecting Speed:
+
+- **Network Congestion:** More users can slow down the speed.
+- **Distance from Router:** The farther you are, the weaker the signal.
+- **Wired vs. Wireless:** Wired connections (Ethernet) are usually faster than wireless.
+- **ISP Throttling:** Your Internet Service Provider (ISP) may limit your speed based on your plan.
+
+
+### Normally, we calculate internet speed by dividing it by 8.
+
+      So if you have 1 Mbps, your actual download speed will be 1024 / 8 = 128 kbps.
+
+      Be aware of the b, small b = bit , big B= Byte.
