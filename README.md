@@ -78,8 +78,10 @@ If you want to calculate it manually, follow these steps:
 
      amount = percentage you want to calculate * total value / 100
 
- **Calculate gram to ammount**
+ **Calculate gram to amount**
         
      gram = (total gram / total value) * amount
 
  > (total gram / total value) it will provide value per gram, then multiply amount to get exact gram for provided amount.
+
+ 
