@@ -58,6 +58,6 @@ If you want to calculate it manually, follow these steps:
 
 ### Normally, we calculate internet speed by dividing it by 8.
 
-      So if you have 1 Mbps, your actual download speed will be 1024 / 8 = 128 kbps.
+      So if you have 1 Mbps, your actual download speed will be 1 * 1000 / 8 = 125 KBps.
 
       Be aware of the b, small b = bit , big B= Byte.
